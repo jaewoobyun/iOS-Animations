@@ -1,5 +1,8 @@
 # iOS-Animations by Tutorials
 iOS-Animations by Tutorials
+![iOS Animations by Tutorials](https://files.kerching.raywenderlich.com/covers/ad7fa5c6-d2f7-4453-bf58-79ffb0bf6eaa.png)
+This is my repository for finishing the book iOS-Animations by Tutorials (Fourth Edition iOS11 and Swift4 edition) by Marin Todorov
+This repository is to prove that I have finished reading the book, and also that I have followed all the sample tutorials and challenges included in the book.
 
 ## Chapters
 - 01-getting-started-with-view-animations 
